@@ -90,3 +90,8 @@ body {
 .btn-3 {
   color: var(--verydarkcyan);
 }
+.btn:hover {
+  background-color: transparent;
+  border: 2px solid var(--bhb);
+  color: var(--bhb);
+}
